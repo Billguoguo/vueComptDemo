@@ -1,2 +1,4 @@
-# vueComponent
-This is a vue component repository.
+# Vue Slack Preview
+> a simple preview component setup for vue 
+
+## Installation 
